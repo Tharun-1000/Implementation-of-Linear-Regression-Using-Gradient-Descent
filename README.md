@@ -95,6 +95,7 @@ print("For population = 70,000 , we predict a profit of $"+str(round(predict2,0)
 ![273454313-fdcf5fa4-096f-40ce-8d41-e056db1efe41](https://github.com/Tharun-1000/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135952958/b32ebfd1-ceb6-49a4-994d-4f6983f7b327)
 ![273454322-d55826b0-a39c-43c7-a491-fa08f39bb9a5](https://github.com/Tharun-1000/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135952958/9161cec4-df35-4071-92b5-f352c14021c4)
 ![273454330-dbbae8c9-90ad-4d31-9ba3-23f59f1238a3](https://github.com/Tharun-1000/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135952958/8eee44c7-d289-42ae-af4e-fbc1a6e3564c)
+![image](https://github.com/Tharun-1000/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135952958/30ef1901-f522-4044-9779-aed6e481af46)
 
 
 ## Result:
