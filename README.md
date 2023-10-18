@@ -1,4 +1,4 @@
-# Implementation-of-Linear-Regression-Using-Gradient-Descent
+![image](https://github.com/Tharun-1000/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135952958/35926c5b-95fc-458c-b219-4822505f214f)# Implementation-of-Linear-Regression-Using-Gradient-Descent
 
 ## AIM:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
@@ -7,12 +7,13 @@ To write a program to predict the profit of a city using the linear regression m
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
-1. Upload the file to your compiler.
-2. Type the required program.
-3. Print the program.
-4.End the program.
- 
+## Algorithm:
+1.Startv the program.
+2.import numpy as np. 
+3.Give the header to the data.
+4.Find the profit of population.
+5.Plot the required graph for both for Gradient Descent Graph and Prediction Graph.
+6.End the program.
 
 ## Program:
 ```
@@ -88,14 +89,48 @@ print("For population = 70,000 , we predict a profit of $"+str(round(predict2,0)
 ```
 
 ## Output:
-![273454130-b516bb5c-f151-429d-bf50-75dbdd9e734a](https://github.com/Tharun-1000/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135952958/5217ab44-3639-492b-9875-1404d3c92366)
-![273454288-ce1dcc68-c409-4861-93e6-f229f561f04f](https://github.com/Tharun-1000/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135952958/32297068-a5ec-4fbe-b881-9e254a1cfcba)
-![273454297-6e93a706-8ec6-44dc-8b83-d0e863191ca2](https://github.com/Tharun-1000/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135952958/9fb95559-4f32-477f-9935-728a39c02ff6)
-![273454305-1fda2603-8672-4fcf-a079-953fb5295842](https://github.com/Tharun-1000/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135952958/d8b64dc6-05b0-4288-92ef-cf28822a9307)
-![273454313-fdcf5fa4-096f-40ce-8d41-e056db1efe41](https://github.com/Tharun-1000/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135952958/b32ebfd1-ceb6-49a4-994d-4f6983f7b327)
-![273454322-d55826b0-a39c-43c7-a491-fa08f39bb9a5](https://github.com/Tharun-1000/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135952958/9161cec4-df35-4071-92b5-f352c14021c4)
-![273454330-dbbae8c9-90ad-4d31-9ba3-23f59f1238a3](https://github.com/Tharun-1000/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135952958/8eee44c7-d289-42ae-af4e-fbc1a6e3564c)
-![image](https://github.com/Tharun-1000/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135952958/30ef1901-f522-4044-9779-aed6e481af46)
+1.profit prediction
+
+![image](https://github.com/Tharun-1000/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135952958/7fb32de5-c945-4359-be9b-32c9a8ade66f)
+
+2.function output
+
+![image](https://github.com/Tharun-1000/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135952958/4ce7c8d9-28b0-42e5-bf7f-2a828a0c760f)
+
+3.Gradient Descent
+
+![image](https://github.com/Tharun-1000/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135952958/ab6e2497-bb79-431b-82d7-c3da4d727dfd)
+
+4.Cost function using gradient descent
+
+![image](https://github.com/Tharun-1000/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135952958/d4b602d2-48fd-4b08-97cb-1401cf2e8cd3)
+
+5.Linear regression using profit prediction
+
+![image](https://github.com/Tharun-1000/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135952958/48e705d5-d941-4b93-8a79-91ab8c09aa78)
+
+6.Profit prediction for a population of 35,000
+
+![image](https://github.com/Tharun-1000/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135952958/43148c82-fc3a-4345-86aa-47edb3bbe107)
+
+7.Profit prediction for a population of 70,000
+
+![image](https://github.com/Tharun-1000/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135952958/d5429179-4770-4759-a7c0-b9221ee5d9bd)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Result:
