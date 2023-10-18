@@ -1,4 +1,4 @@
-![image](https://github.com/Tharun-1000/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135952958/35926c5b-95fc-458c-b219-4822505f214f)# Implementation-of-Linear-Regression-Using-Gradient-Descent
+
 
 ## AIM:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
